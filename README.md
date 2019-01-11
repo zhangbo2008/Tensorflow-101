@@ -1,5 +1,5 @@
-77777777777777777777777777777777777
-444444444444444444444444444
+333333333333333333333
+ffffffffffffffffffffffffffffff
 
 
 TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried to explain as kindly as possible, as these tutorials are intended for TensorFlow beginners. Hope these tutorials to be a useful recipe book for your deep learning projects. Enjoy coding! :) 
